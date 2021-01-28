@@ -1,0 +1,27 @@
+header
+{
+    padding: 1em;
+
+    background-color: lightcoral;
+}
+header h1 
+{
+    color: white;
+}
+
+.navbar 
+{
+    background-color: crimson;
+}
+
+.nav-item
+{
+    background-color: white;
+    margin: .1em;
+}
+.line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 2px;
+}
+.bar { fill: steelblue; }
